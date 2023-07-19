@@ -1,0 +1,126 @@
+﻿<Application x:Class="MecaApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MecaApp"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="myGrid"
+               TargetType="Grid">
+            <Setter Property="FlowDirection" Value="RightToLeft" />
+        </Style>
+
+        <Style x:Key="buttonText"
+               TargetType="Label">
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="0 5" />
+        </Style>
+        <Style x:Key="fontAwesome"
+               TargetType="fa:ImageAwesome">
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="0 5"/>
+        </Style>
+        <Style x:Key="fontAwesomeAction"
+               TargetType="fa:ImageAwesome">
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="0 5"/>
+            <Setter Property="Height" Value="25" />
+        </Style>
+        <Style x:Key="MaiButtons"
+               TargetType="Button">
+            
+            <Setter Property="Background" Value="#3e454c" />
+            <Setter Property="Foreground" Value="WhiteSmoke" />
+            <Setter Property="Margin" Value="20,15" />
+            <Setter Property="Padding" Value="5 15" />
+            <Setter Property="Width" Value="150" />
+            <Setter Property="Height" Value="80" />
+        </Style>
+        <Style x:Key="BtnSuccess"
+               x:Name="BtnSuccess"
+               TargetType="Button">
+            <Setter Property="Background" Value="#218838" />
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="20,0" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Height" Value="60" />
+            <Setter Property="Opacity" Value=".8" />
+        </Style>
+        <Style x:Key="BtnPrimary"
+               x:Name="BtnPrimary"
+               TargetType="Button">
+            <Setter Property="Background" Value="#0069D9" />
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="20,0" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Height" Value="60" />
+            <Setter Property="Opacity" Value=".8" />
+        </Style>
+        <Style x:Key="BtnWarning"
+               x:Name="BtnWarning"
+               TargetType="Button">
+            <Setter Property="Background" Value="#E0A800" />
+            <Setter Property="Foreground" Value="Black" />
+            <Setter Property="Margin" Value="20,0" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Height" Value="60" />
+            <Setter Property="Opacity" Value=".8" />
+        </Style>
+        <Style x:Key="BtnDanger"
+               x:Name="BtnDanger"
+               TargetType="Button">
+            <Setter Property="Background" Value="#C82333" />
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="20,0" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Height" Value="60" />
+            <Setter Property="Opacity" Value=".8" />
+        </Style>
+        <Style x:Key="BtnInfo"
+               TargetType="Button">
+            <Setter Property="Background" Value="#138496" />
+            <Setter Property="Foreground" Value="AntiqueWhite" />
+            <Setter Property="Margin" Value="20,0" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Width" Value="100" />
+            <Setter Property="Height" Value="60" />
+            <Setter Property="Opacity" Value=".8" />
+        </Style>
+        <Style x:Key="Wins"
+               TargetType="Window"
+               BasedOn="{StaticResource {x:Type Window}}">
+            <Setter Property="FontFamily" Value="Vazir" />
+            <Setter Property="Width" Value="300"/>
+            <Setter Property="Height" Value="300"/>
+            <Setter Property="FontSize" Value="18"/>
+
+            <Setter Property="ResizeMode" Value="CanMinimize" />
+        </Style>
+        <Style x:Key="Grids"
+               TargetType="DataGrid"
+               BasedOn="{StaticResource {x:Type DataGrid}}">
+            <Setter Property="Opacity" Value=".8" />
+            <Setter Property="ColumnWidth" Value="*" />
+            <Setter Property="HorizontalScrollBarVisibility" Value="Auto" />
+            <Setter Property="VerticalScrollBarVisibility" Value="Auto" />
+            <Setter Property="IsReadOnly" Value="True" />
+            <Setter Property="SelectionMode" Value="Single" />
+            <Setter Property="CanUserAddRows" Value="False" />
+            <Setter Property="CanUserDeleteRows" Value="False" />
+            <Setter Property="CanUserReorderColumns" Value="False" />
+            <Setter Property="CanUserResizeRows" Value="False" />
+            <Setter Property="CanUserResizeColumns" Value="True" />
+            <Setter Property="CanUserSortColumns" Value="True" />
+        </Style>
+        <Style x:Key="Pages"
+               TargetType="Page"
+               BasedOn="{StaticResource {x:Type Page}}">
+            <Setter Property="FlowDirection" Value="RightToLeft"/>
+        </Style>
+        
+    </Application.Resources>
+</Application>

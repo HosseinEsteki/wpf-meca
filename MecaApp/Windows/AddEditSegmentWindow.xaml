@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPFMecaApp.Windows.AddEditSegmentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMecaApp.Windows"
+        mc:Ignorable="d"
+        Title="قطعه"
+        Height="350"
+        Width="350"
+        WindowStartupLocation="CenterScreen"
+        Style="{StaticResource Wins}">
+    <Grid Style="{StaticResource myGrid}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label Content="نام قطعه:"/>
+            <TextBox Name="textboxName" TextChanged="textbox_TextChanged" />
+            <Label Content="طول عمر بر حسب ماه:"/>
+            <TextBox Name="textboxMonthDuribility" PreviewTextInput="textboxMonthDuribility_PreviewTextInput" MaxLength="2" TextChanged="textbox_TextChanged"/>
+            <Label Content="طول عمر بر حسب کیلومتر:"/>
+            <TextBox Name="textboxKiloMeterDuribility" PreviewTextInput="textboxMonthDuribility_PreviewTextInput" MaxLength="6" TextChanged="textbox_TextChanged"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="btnSubmit" Content="ذخیره"  Style="{StaticResource BtnSuccess}" Click="btnSubmit_Click" IsEnabled="False"/>
+            <Button Name="btnCancel" Content="انصراف" Style="{StaticResource BtnDanger}" Click="btnCancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

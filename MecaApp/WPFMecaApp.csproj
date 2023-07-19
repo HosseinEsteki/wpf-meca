@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resorces\Images\Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resorces\Images\Logo.ico" />
+    <None Remove="Resorces\Images\Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resorces\Images\Logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resorces\Images\Logo.ico" />
+    <Resource Include="Resorces\Images\Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resorces\Images\Icons\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

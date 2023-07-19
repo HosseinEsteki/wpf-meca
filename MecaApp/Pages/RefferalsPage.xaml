@@ -1,0 +1,43 @@
+﻿<Page x:Class="WPFMecaApp.RefferalsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPFMecaApp" xmlns:fa="http://schemas.fontawesome.io/icons/"
+      Style="{StaticResource Pages}"
+      mc:Ignorable="d" 
+      d:DesignHeight="586" d:DesignWidth="586"
+      Loaded="Page_Loaded"
+      Title="RefferalPage">
+    <Page.Resources>
+        <CollectionViewSource x:Key="refferalsVeiwSource"/>
+    </Page.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="0"
+                  x:Name="RefferalGrid"
+                  Style="{StaticResource Grids}"
+                  SelectionMode="Extended"
+                  ItemsSource="{Binding Source={StaticResource refferalsVeiwSource}}"
+                  SelectionChanged="RefferalGrid_SelectionChanged"/>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button Style="{StaticResource BtnSuccess}"
+                    Name="buttonHide"
+                    IsEnabled="False"
+                    Width="110"
+                    Click="buttonHide_Click">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <fa:ImageAwesome Icon="EyeSlash" Style="{StaticResource fontAwesomeAction}" />
+                    <Label Style="{StaticResource buttonText}">نشان نده</Label>
+                </TextBlock>
+            </Button>
+
+            
+        </StackPanel>
+
+    </Grid>
+</Page>

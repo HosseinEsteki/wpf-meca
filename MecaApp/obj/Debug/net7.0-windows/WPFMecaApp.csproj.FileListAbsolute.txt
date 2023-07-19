@@ -1,0 +1,353 @@
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.exe
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.deps.json
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.runtimeconfig.json
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.pdb
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\App.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_Content.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_MarkupCompile.cache
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_MarkupCompile.lref
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.g.resources
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.AssemblyInfo.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\refint\WPFMecaApp.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.pdb
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.genruntimeconfig.cache
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\ref\WPFMecaApp.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\DataAccess.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\DataAccess.pdb
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.CopyComplete
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\App.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\HomePage.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsPage.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\RefferalsPage.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\SegmentsPage.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\UsersPage.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\HomePage.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsPage.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\RefferalsPage.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\SegmentsPage.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\UsersPage.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditSegmentWindow.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditUserWindow.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditSegmentWindow.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditUserWindow.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\UserDetailsWindow.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\UserDetailsWindow.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditCarWindow.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditCarWindow.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\UserFrame.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditJobsWindow.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\UserFrame.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditJobsWindow.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\CarFrame.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\SegmentFrame.g.cs
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\CarFrame.baml
+D:\Projects\Visual Studio\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\SegmentFrame.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.exe
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.deps.json
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.runtimeconfig.json
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.pdb
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\DataAccess.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\DataAccess.pdb
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.AssemblyReference.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\CarFrame.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\SegmentFrame.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\UserFrame.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsPage.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\RefferalsPage.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\SegmentsPage.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\UsersPage.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditCarWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditJobsWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditSegmentWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditUserWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\UserDetailsWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_Content.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_MarkupCompile.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_MarkupCompile.lref
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\App.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\CarFrame.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\SegmentFrame.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsFrames\UserFrame.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsPage.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\RefferalsPage.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\SegmentsPage.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\UsersPage.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditCarWindow.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditJobsWindow.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditSegmentWindow.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditUserWindow.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\UserDetailsWindow.baml
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.g.resources
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.AssemblyInfoInputs.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.AssemblyInfo.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.CoreCompileInputs.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.CopyComplete
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\refint\WPFMecaApp.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.pdb
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.genruntimeconfig.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\ref\WPFMecaApp.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\LoadingWindow.g.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\MecaApp\obj\Debug\net7.0-windows\LoadingWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.exe
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.deps.json
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.runtimeconfig.json
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\WPFMecaApp.pdb
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\DataAccess.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\bin\Debug\net7.0-windows\DataAccess.pdb
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.AssemblyReference.cache
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\LoadingWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsPage.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\RefferalsPage.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\SegmentsPage.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\UsersPage.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditCarWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditJobsWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditSegmentWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditUserWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\UserDetailsWindow.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_Content.g.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_MarkupCompile.cache
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp_MarkupCompile.lref
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\App.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\LoadingWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\JobsPage.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\RefferalsPage.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\SegmentsPage.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Pages\UsersPage.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditCarWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditJobsWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditSegmentWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\AddEditUserWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\Windows\UserDetailsWindow.baml
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.g.resources
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.AssemblyInfoInputs.cache
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.AssemblyInfo.cs
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.CoreCompileInputs.cache
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.csproj.CopyComplete
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\refint\WPFMecaApp.dll
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.pdb
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\WPFMecaApp.genruntimeconfig.cache
+C:\Users\hosse\Desktop\MecaApp\MecaApp\obj\Debug\net7.0-windows\ref\WPFMecaApp.dll

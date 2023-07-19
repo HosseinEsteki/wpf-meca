@@ -1,0 +1,47 @@
+﻿<Page x:Class="WPFMecaApp.JobsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPFMecaApp" xmlns:fa="http://schemas.fontawesome.io/icons/"
+      mc:Ignorable="d" 
+      Style="{StaticResource Pages}"
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="JobsPage"
+      Loaded="Page_Loaded">
+    <Page.Resources>
+        <CollectionViewSource x:Key="jobsViewSource"/>
+    </Page.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="0"
+                          x:Name="JobGrid"
+                          Style="{StaticResource Grids}"
+                          ItemsSource="{Binding Source={StaticResource jobsViewSource}}" 
+                          SelectionChanged="UserGrid_SelectionChanged"/>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button Style="{StaticResource BtnSuccess}"
+                    Name="buttonAdd"
+                    Click="Add_Click">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <fa:ImageAwesome Icon="PlusSquare" Style="{StaticResource fontAwesomeAction}" />
+                    <Label Style="{StaticResource buttonText}">افزودن</Label>
+                </TextBlock>
+            </Button>
+            
+            <Button Style="{StaticResource BtnDanger}"
+                    Name="buttonDelete"
+                    IsEnabled="False"
+                    Click="Delete_Click" >
+                <TextBlock>
+                    <fa:ImageAwesome Icon="TrashOutline" Style="{StaticResource fontAwesomeAction}"/>
+                    <Label Style="{StaticResource buttonText}">حذف</Label>
+                </TextBlock>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>
