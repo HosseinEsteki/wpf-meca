@@ -1,0 +1,42 @@
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\Projects\Visual Studio\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+D:\Projects\Visual Studio\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\Projects\Visual Studio\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+D:\Projects\Visual Studio\MecaApp\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\Site1-N\Documents\Edu\MecaApp\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\hosse\Desktop\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\hosse\Desktop\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\hosse\Desktop\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\hosse\Desktop\MecaApp\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\hosse\Desktop\MecaApp\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

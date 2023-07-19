@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFMecaApp", "MecaApp\WPFMecaApp.csproj", "{C39E92CE-0BD7-4FD1-A132-5CE68B7CA17C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{1512F03B-B5A8-4A1C-8680-75AA391A37DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C39E92CE-0BD7-4FD1-A132-5CE68B7CA17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39E92CE-0BD7-4FD1-A132-5CE68B7CA17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39E92CE-0BD7-4FD1-A132-5CE68B7CA17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39E92CE-0BD7-4FD1-A132-5CE68B7CA17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1512F03B-B5A8-4A1C-8680-75AA391A37DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1512F03B-B5A8-4A1C-8680-75AA391A37DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1512F03B-B5A8-4A1C-8680-75AA391A37DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1512F03B-B5A8-4A1C-8680-75AA391A37DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB13D8B5-BE82-4370-A721-CDD977CDB97D}
+	EndGlobalSection
+EndGlobal
