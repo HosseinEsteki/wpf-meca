@@ -85,7 +85,7 @@ namespace WPFMecaApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPFMecaApp;V1.0.0.0;component/windows/addedituserwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPFMecaApp;component/windows/addedituserwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\AddEditUserWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

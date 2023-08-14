@@ -1,9 +1,9 @@
-﻿using DataAccess;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using DataAccess.ViewModels;
+using DataAccess.Data;
 
 namespace WPFMecaApp
 {

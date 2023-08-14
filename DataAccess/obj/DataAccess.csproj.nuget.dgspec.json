@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\hosse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

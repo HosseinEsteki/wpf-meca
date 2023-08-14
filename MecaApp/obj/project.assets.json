@@ -3814,11 +3814,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hosse\\Desktop\\MecaApp\\MecaApp\\WPFMecaApp.csproj",
+      "projectUniqueName": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\MecaApp\\WPFMecaApp.csproj",
       "projectName": "WPFMecaApp",
-      "projectPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\MecaApp\\WPFMecaApp.csproj",
+      "projectPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\MecaApp\\WPFMecaApp.csproj",
       "packagesPath": "C:\\Users\\hosse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\MecaApp\\obj\\",
+      "outputPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\MecaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3839,8 +3839,8 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj"
             }
           }
         }

@@ -1,6 +1,4 @@
-﻿using DataAccess.Data;
-
-namespace DataAccess
+﻿namespace DataAccess.Data
 {
     internal static class BaseDataAccess
     {

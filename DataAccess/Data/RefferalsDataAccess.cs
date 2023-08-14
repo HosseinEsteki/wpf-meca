@@ -1,9 +1,8 @@
-﻿using DataAccess.Data;
-using DataAccess.Models;
+﻿using DataAccess.Models;
 using DataAccess.ViewModels;
 using Microsoft.EntityFrameworkCore;
 
-namespace DataAccess
+namespace DataAccess.Data
 {
     public class RefferalsDataAccess
     {

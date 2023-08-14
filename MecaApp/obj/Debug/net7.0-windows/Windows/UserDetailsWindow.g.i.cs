@@ -127,7 +127,7 @@ namespace WPFMecaApp.Windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPFMecaApp;V1.0.0.0;component/windows/userdetailswindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPFMecaApp;component/windows/userdetailswindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\UserDetailsWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

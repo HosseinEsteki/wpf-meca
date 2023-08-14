@@ -1,10 +1,9 @@
-﻿using DataAccess.Data;
-using DataAccess.Models;
+﻿using DataAccess.Models;
 using DataAccess.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.ObjectModel;
 
-namespace DataAccess
+namespace DataAccess.Data
 {
     public class SegmentDataAccess
     {

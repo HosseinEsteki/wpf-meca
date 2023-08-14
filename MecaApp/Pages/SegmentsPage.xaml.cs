@@ -1,10 +1,10 @@
 ﻿using DataAccess.Models;
-using DataAccess;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using WPFMecaApp.Windows;
 using DataAccess.ViewModels;
+using DataAccess.Data;
 
 namespace WPFMecaApp
 {

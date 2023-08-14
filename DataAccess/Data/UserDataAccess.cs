@@ -1,10 +1,9 @@
-﻿using DataAccess.Data;
-using DataAccess.Models;
+﻿using DataAccess.Models;
 using DataAccess.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.ObjectModel;
 
-namespace DataAccess
+namespace DataAccess.Data
 {
     public class UserDataAccess
     {
@@ -12,7 +11,7 @@ namespace DataAccess
         MecaDB db = BaseDataAccess.DB;
         public List<User> Users
         {
-            get=>db.Users.OrderByDescending(x => x.Id).ToList();
+            get => db.Users.OrderByDescending(x => x.Id).ToList();
         }
         public List<UserViewModel> UsersForDataGrid
         {

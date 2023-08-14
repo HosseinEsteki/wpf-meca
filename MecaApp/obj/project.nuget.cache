@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/H9QslDgSxcxlfCL6ySm+BLGsZVuZdk8+40R857xrQ6OVNCts+Nvs1r+8jDTZJRrk224uoA9eF0kZRDfYCnOtA==",
+  "dgSpecHash": "xxI/TYHUVHEE9Z+5xRUr/3ZnmflwV0OSz81+lDPvWU3Utq/r4FQkQxKCb+nwTL1yvFVosMJWxVmeJ2Zk40J6JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hosse\\Desktop\\MecaApp\\MecaApp\\WPFMecaApp.csproj",
+  "projectFilePath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\MecaApp\\WPFMecaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hosse\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hosse\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

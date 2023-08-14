@@ -1,14 +1,17 @@
-﻿using DataAccess.Data;
-using DataAccess.Models;
+﻿using DataAccess.Models;
 
-namespace DataAccess
+namespace DataAccess.Data
 {
     public class CarDataAccess
     {
         List<Car> _cars;
-        public List<Car> Cars { get {
+        public List<Car> Cars
+        {
+            get
+            {
                 Refresh();
-                return _cars; }
+                return _cars;
+            }
             set
             {
                 _cars = value;
@@ -17,8 +20,9 @@ namespace DataAccess
         User _user;
         public User User
         {
-            get=>_user;
-            set{
+            get => _user;
+            set
+            {
                 _user = value;
             }
         }

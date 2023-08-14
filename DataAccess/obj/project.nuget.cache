@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKmuhsf5rcLVB7YUEubCH1pFXMcQLxMkJUsy+L0p+Fw50aef6sF1SyR0Gn+uk0MFzRq8rZpWVvsNT8FfR2O0IQ==",
+  "dgSpecHash": "EBRHd+V0ISgPhxXhNzt2v26TOeNMq9qd1+oqidIew23pQQ0G8rhfbFUZwUl4q1c0V39uhxqKyfHsY/R7TOORTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hosse\\Desktop\\MecaApp\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\hosse\\Desktop\\MecaApp\\wpf-meca\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hosse\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hosse\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

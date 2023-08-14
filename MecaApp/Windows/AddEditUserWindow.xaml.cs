@@ -1,4 +1,4 @@
-﻿using DataAccess;
+﻿using DataAccess.Data;
 using DataAccess.Models;
 using System.Windows;
 using System.Windows.Controls;
